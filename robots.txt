@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ab3264.github.io/dppscanner/sitemap.xml

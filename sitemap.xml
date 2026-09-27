@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://ab3264.github.io/dppscanner/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://ab3264.github.io/dppscanner/</loc>
+</url>
+<url>
+<loc>https://ab3264.github.io/dppscanner/choosing-the-right-scanner-for-your-industry.html</loc>
+<lastmod>2026-09-27T13:11:41+02:00</lastmod>
+</url>
+<url>
+<loc>https://ab3264.github.io/dppscanner/contact.html</loc>
+<lastmod>2026-09-27T13:56:44+02:00</lastmod>
+</url>
+<url>
+<loc>https://ab3264.github.io/dppscanner/gs1-digital-link-and-interoperability-how-dpp-scanners-talk-to-the-eu-registry.html</loc>
+<lastmod>2026-09-27T13:13:23+02:00</lastmod>
+</url>
+<url>
+<loc>https://ab3264.github.io/dppscanner/in-store-warehouse-or-customs-identifying-your-scanning-workflow.html</loc>
+<lastmod>2026-09-27T13:15:07+02:00</lastmod>
+</url>
+<url>
+<loc>https://ab3264.github.io/dppscanner/title.html</loc>
+<lastmod>2026-09-27T13:10:17+02:00</lastmod>
+</url>
+<url>
+<loc>https://ab3264.github.io/dppscanner/what-is-a-digital-product-passport-how-scanning-a-qr-code-changes-everyday-shopping.html</loc>
+<lastmod>2026-09-27T13:25:51+02:00</lastmod>
+</url>
+</urlset>
